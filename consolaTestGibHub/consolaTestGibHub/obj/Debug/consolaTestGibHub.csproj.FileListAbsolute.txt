@@ -1,0 +1,6 @@
+C:\Users\guest\Documents\GitHub\TestGibHub\consolaTestGibHub\consolaTestGibHub\bin\Debug\consolaTestGibHub.exe.config
+C:\Users\guest\Documents\GitHub\TestGibHub\consolaTestGibHub\consolaTestGibHub\bin\Debug\consolaTestGibHub.exe
+C:\Users\guest\Documents\GitHub\TestGibHub\consolaTestGibHub\consolaTestGibHub\bin\Debug\consolaTestGibHub.pdb
+C:\Users\guest\Documents\GitHub\TestGibHub\consolaTestGibHub\consolaTestGibHub\obj\Debug\consolaTestGibHub.csprojResolveAssemblyReference.cache
+C:\Users\guest\Documents\GitHub\TestGibHub\consolaTestGibHub\consolaTestGibHub\obj\Debug\consolaTestGibHub.exe
+C:\Users\guest\Documents\GitHub\TestGibHub\consolaTestGibHub\consolaTestGibHub\obj\Debug\consolaTestGibHub.pdb
