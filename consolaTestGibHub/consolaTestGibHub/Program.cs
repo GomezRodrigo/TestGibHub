@@ -12,6 +12,8 @@ namespace consolaTestGibHub
         {
             Console.WriteLine("Hola ADAM");
             Console.ReadLine();
+            Console.WriteLine("Como estas ADAM?");
+            Console.ReadLine();
         }
     }
 }
