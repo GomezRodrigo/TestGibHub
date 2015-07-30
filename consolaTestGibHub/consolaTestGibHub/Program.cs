@@ -14,6 +14,8 @@ namespace consolaTestGibHub
             Console.ReadLine();
             Console.WriteLine("Como estas ADAM?");
             Console.ReadLine();
+            Console.WriteLine("chau ADAM");
+            Console.ReadLine();
         }
     }
 }
